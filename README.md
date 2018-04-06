@@ -12,7 +12,7 @@ Main files:
 
 If you use this code, please cite the paper:
 
-[1] Iiris Sundin\*, Tomi Peltola\*, Luana Micallef, Homayun Afrabandpey, Marta Soare, Muntasir Mamun Majumder, Pedram Daee, Chen He, Baris Serim, Aki Havulinna, Caroline Heckman, Giulio Jacucci, Pekka Marttinen, and Samuel Kaski. **Improving genomics-based predictions for precision medicine through active elicitation of expert knowledge.** Submitted, 2018.
+[1] Iiris Sundin\*, Tomi Peltola\*, Luana Micallef, Homayun Afrabandpey, Marta Soare, Muntasir Mamun Majumder, Pedram Daee, Chen He, Baris Serim, Aki Havulinna, Caroline Heckman, Giulio Jacucci, Pekka Marttinen, and Samuel Kaski. **Improving genomics-based predictions for precision medicine through active elicitation of expert knowledge.** Accepted to the ISMB 2018 conference proceedings, to be published in Bioinformatics.
 
 \* Equal contribution.
 
